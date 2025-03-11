@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaissachin6063" alt="jaissachin6063" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sachinjais76" target="blank"><img src="https://img.shields.io/twitter/follow/@sachinjais76?logo=twitter&style=for-the-badge" alt="@sachinjais76" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/sachinjais76" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/sachinjais76?logo=twitter&style=for-the-badge" alt="https://x.com/sachinjais76" /></a> </p>
 
 - 🌱 I’m currently learning **Java DSA Problem solving technique**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@sachinjais76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sachinjais76" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sachin-jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-jaiswal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sachin_jaiswal76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sachin_jaiswal76" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/sachinjais76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/sachinjais76" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/sachin-jaiswal-a98b77303" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sachin-jaiswal-a98b77303" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/sachin_jaiswal76/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sachin_jaiswal76/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
